@@ -1,5 +1,5 @@
 # 👨🏽‍💻 About Me:
-Estudiante de 7° semestre de Ingeniería en Ciencia de Datos y Matemáticas.<br>Apasionado en temas de IA y ML.<br>Actualmente aprendiendo y elevando mis conocimientos sobre técnicas de machine learning, así como bases de datos.
+Estudiante de último semestre de Ingeniería en Ciencia de Datos y Matemáticas.<br>Apasionado en temas de IA y ML.<br>Actualmente aprendiendo y elevando mis conocimientos sobre técnicas de machine learning, así como bases de datos.
 
 
 ## 🌐 Socials:
