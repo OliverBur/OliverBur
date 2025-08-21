@@ -1,8 +1,5 @@
-# 👨🏽‍💻 About Me:
-IA & Innovation Analyst @ Banorte
-
-
-## 🌐 Socials:
+## IA & Innovation Analyst @ Banorte
+### Linkedin: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oliver-burguete-lópez-05450b204/) 
 
 # 💻 Tech Stack:
